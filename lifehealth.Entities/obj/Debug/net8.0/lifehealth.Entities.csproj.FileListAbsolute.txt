@@ -1,0 +1,11 @@
+/Users/mehul/Documents/dotnetwork/Health_Tracking/lifehealth.Entities/bin/Debug/net8.0/lifehealth.Entities.deps.json
+/Users/mehul/Documents/dotnetwork/Health_Tracking/lifehealth.Entities/bin/Debug/net8.0/lifehealth.Entities.dll
+/Users/mehul/Documents/dotnetwork/Health_Tracking/lifehealth.Entities/bin/Debug/net8.0/lifehealth.Entities.pdb
+/Users/mehul/Documents/dotnetwork/Health_Tracking/lifehealth.Entities/obj/Debug/net8.0/lifehealth.Entities.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mehul/Documents/dotnetwork/Health_Tracking/lifehealth.Entities/obj/Debug/net8.0/lifehealth.Entities.AssemblyInfoInputs.cache
+/Users/mehul/Documents/dotnetwork/Health_Tracking/lifehealth.Entities/obj/Debug/net8.0/lifehealth.Entities.AssemblyInfo.cs
+/Users/mehul/Documents/dotnetwork/Health_Tracking/lifehealth.Entities/obj/Debug/net8.0/lifehealth.Entities.csproj.CoreCompileInputs.cache
+/Users/mehul/Documents/dotnetwork/Health_Tracking/lifehealth.Entities/obj/Debug/net8.0/lifehealth.Entities.dll
+/Users/mehul/Documents/dotnetwork/Health_Tracking/lifehealth.Entities/obj/Debug/net8.0/refint/lifehealth.Entities.dll
+/Users/mehul/Documents/dotnetwork/Health_Tracking/lifehealth.Entities/obj/Debug/net8.0/lifehealth.Entities.pdb
+/Users/mehul/Documents/dotnetwork/Health_Tracking/lifehealth.Entities/obj/Debug/net8.0/ref/lifehealth.Entities.dll

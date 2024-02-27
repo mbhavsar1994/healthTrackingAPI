@@ -1,0 +1,17 @@
+/Users/mehul/Documents/dotnetwork/Health_Tracking/lifeHealth.DataService/bin/Debug/net8.0/lifeHealth.DataService.deps.json
+/Users/mehul/Documents/dotnetwork/Health_Tracking/lifeHealth.DataService/bin/Debug/net8.0/lifeHealth.DataService.runtimeconfig.json
+/Users/mehul/Documents/dotnetwork/Health_Tracking/lifeHealth.DataService/bin/Debug/net8.0/lifeHealth.DataService.dll
+/Users/mehul/Documents/dotnetwork/Health_Tracking/lifeHealth.DataService/bin/Debug/net8.0/lifeHealth.DataService.pdb
+/Users/mehul/Documents/dotnetwork/Health_Tracking/lifeHealth.DataService/obj/Debug/net8.0/lifeHealth.DataService.csproj.AssemblyReference.cache
+/Users/mehul/Documents/dotnetwork/Health_Tracking/lifeHealth.DataService/obj/Debug/net8.0/lifeHealth.DataService.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mehul/Documents/dotnetwork/Health_Tracking/lifeHealth.DataService/obj/Debug/net8.0/lifeHealth.DataService.AssemblyInfoInputs.cache
+/Users/mehul/Documents/dotnetwork/Health_Tracking/lifeHealth.DataService/obj/Debug/net8.0/lifeHealth.DataService.AssemblyInfo.cs
+/Users/mehul/Documents/dotnetwork/Health_Tracking/lifeHealth.DataService/obj/Debug/net8.0/lifeHealth.DataService.csproj.CoreCompileInputs.cache
+/Users/mehul/Documents/dotnetwork/Health_Tracking/lifeHealth.DataService/obj/Debug/net8.0/lifeHealth.DataService.dll
+/Users/mehul/Documents/dotnetwork/Health_Tracking/lifeHealth.DataService/obj/Debug/net8.0/refint/lifeHealth.DataService.dll
+/Users/mehul/Documents/dotnetwork/Health_Tracking/lifeHealth.DataService/obj/Debug/net8.0/lifeHealth.DataService.pdb
+/Users/mehul/Documents/dotnetwork/Health_Tracking/lifeHealth.DataService/obj/Debug/net8.0/lifeHealth.DataService.genruntimeconfig.cache
+/Users/mehul/Documents/dotnetwork/Health_Tracking/lifeHealth.DataService/obj/Debug/net8.0/ref/lifeHealth.DataService.dll
+/Users/mehul/Documents/dotnetwork/Health_Tracking/lifeHealth.DataService/bin/Debug/net8.0/lifehealth.Entities.dll
+/Users/mehul/Documents/dotnetwork/Health_Tracking/lifeHealth.DataService/bin/Debug/net8.0/lifehealth.Entities.pdb
+/Users/mehul/Documents/dotnetwork/Health_Tracking/lifeHealth.DataService/obj/Debug/net8.0/lifeHealth.DataService.csproj.CopyComplete
