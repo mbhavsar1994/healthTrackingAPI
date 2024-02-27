@@ -16,4 +16,8 @@
     <ProjectReference Include="..\lifehealth.Entities\lifehealth.Entities.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Repository/" />
+  </ItemGroup>
+
 </Project>

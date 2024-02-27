@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("lifeHealth.DataService")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d597daeefefea34f389723cda4ca6e6c9a5c0245")]
 [assembly: System.Reflection.AssemblyProductAttribute("lifeHealth.DataService")]
 [assembly: System.Reflection.AssemblyTitleAttribute("lifeHealth.DataService")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
